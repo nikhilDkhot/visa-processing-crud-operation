@@ -1,0 +1,15 @@
+/* .middlebody{
+    margin-right: 45%;
+} */
+
+#h1{
+    text-align: center;
+    margin-top: 15px;
+    /* margin-left: 350px; */
+}
+#cardrow{
+    border-radius: 120px;
+    padding-block: 20px;
+    margin-inline-start: 10px;
+    /* margin-left:30%; */
+}
